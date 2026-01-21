@@ -1,4 +1,4 @@
-# CSE480 — Machine Vision (Fall 2025)
+# Machine Vision 
 
 This repository contains **a complete Machine Vision course portfolio**, including:
 - A **final project** focused on video action recognition + facial emotion recognition + real-time deployment.
